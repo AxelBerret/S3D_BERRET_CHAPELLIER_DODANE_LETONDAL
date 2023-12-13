@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+# Eclipse
+.classpath
+.project
+.settings/
+target/
+*.log
+.mvn/
+Thumbs.db
